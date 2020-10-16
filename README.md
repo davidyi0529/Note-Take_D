@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img src="https://github.com/davidyi0529/Portfolio_D/blob/master/assets/images/logo.png?raw=true" alt="alt text" title="David Yi">
 
 <br />
@@ -149,6 +148,3 @@ Reach out to me at one of the following places!
 Copyright &copy; All rights reserved.
 
 Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
-=======
-# Note-Taker_D
->>>>>>> fc2eb7444b01f93678900457b81ce05c47c98f7b

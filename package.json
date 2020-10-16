@@ -1,25 +1,16 @@
 {
-  "name": "note-taker_d",
+  "name": "note-taker_dv2",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/davidyi0529/Note-Taker_D.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/davidyi0529/Note-Taker_D/issues"
-  },
-  "homepage": "https://github.com/davidyi0529/Note-Taker_D#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "uuid": "^8.3.1"
+    "mysql": "^2.18.1"
   }
 }
