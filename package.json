@@ -1,0 +1,22 @@
+{
+  "name": "note-take_d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidyi0529/Note-Take_D.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidyi0529/Note-Take_D/issues"
+  },
+  "homepage": "https://github.com/davidyi0529/Note-Take_D#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
