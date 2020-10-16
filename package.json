@@ -1,5 +1,5 @@
 {
-  "name": "note-take_d",
+  "name": "note-taker_d",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidyi0529/Note-Take_D.git"
+    "url": "git+https://github.com/davidyi0529/Note-Taker_D.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/davidyi0529/Note-Take_D/issues"
+    "url": "https://github.com/davidyi0529/Note-Taker_D/issues"
   },
-  "homepage": "https://github.com/davidyi0529/Note-Take_D#readme",
+  "homepage": "https://github.com/davidyi0529/Note-Taker_D#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
