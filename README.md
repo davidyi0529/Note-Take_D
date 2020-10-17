@@ -13,7 +13,7 @@
 <br />
 
 ### Link to the App Demo 
-- `Heroku`
+- https://note-taker-d.herokuapp.com/
 
 <br />
 
@@ -86,8 +86,8 @@ The following were used for this project.
 
 - `Javascript // Node.js`
 - `Express`
-- ``
 - `CSS // Bootstrap`
+- `Heroku`
 
 <br />
 <br />
@@ -103,9 +103,13 @@ The following were used for this project.
 
 ><a href="https://bootcamp.berkeley.edu/coding/" target="_blank">`UCB-Coding-Bootcamp`</a> 
 
+><a href="https://nodejs.org/en/" target="_blank">`Node.js`</a> 
+
 ><a href="https://www.npmjs.com/" target="_blank">`npm, Inc`</a> 
 
-><a href="" target="_blank">``</a>
+><a href="https://expressjs.com/" target="_blank">`Express`</a> 
+
+><a href="https://www.heroku.com/home" target="_blank">`Heroku`</a>
 
 ><a href="https://getbootstrap.com/" target="_blank">`Bootstrap`</a>
 
