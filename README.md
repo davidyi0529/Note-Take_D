@@ -23,11 +23,16 @@ Note-Taker_D...
 
 ### Screenshot of landing page:
 
-<img src="" width="1275" height="600">
+<img src="https://github.com/davidyi0529/Note-Taker_D/blob/main/Public/assets/images/landing%20page.png?raw=true" width="1275" height="600">
 
-### Screenshot of Input page:
+### Screenshot of notes page:
 
-<img src="" width="1275" height="600">
+<img src="https://github.com/davidyi0529/Note-Taker_D/blob/main/Public/assets/images/notes%20page.png?raw=true" width="1275" height="600">
+
+
+### Demo of notes page:
+
+<img src="https://github.com/davidyi0529/Note-Taker_D/blob/main/Public/assets/images/demo.gif?raw=true" width="1275" height="600">
 
 <br />
 <br />
