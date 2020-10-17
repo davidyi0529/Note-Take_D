@@ -17,22 +17,22 @@
 
 <br />
 
-Note-Taker_D...
+Note-Taker_D is a simple note taking application that allows you to save notes with a title and plain text. Powered by ExpressJS, the Note Taker app makes creating, viewing, and deleting notes a cinch!
 
 <br />
 
 ### Screenshot of landing page:
 
-<img src="https://github.com/davidyi0529/Note-Taker_D/blob/main/Public/assets/images/landing%20page.png?raw=true" width="1275" height="600">
+<img src="https://github.com/davidyi0529/Note-Taker_D/blob/main/Public/assets/images/landing%20page.png?raw=true" width="800" height="600">
 
 ### Screenshot of notes page:
 
-<img src="https://github.com/davidyi0529/Note-Taker_D/blob/main/Public/assets/images/notes%20page.png?raw=true" width="1275" height="600">
+<img src="https://github.com/davidyi0529/Note-Taker_D/blob/main/Public/assets/images/notes%20page.png?raw=true" width="800" height="600">
 
 
 ### Demo of notes page:
 
-<img src="https://github.com/davidyi0529/Note-Taker_D/blob/main/Public/assets/images/demo.gif?raw=true" width="1275" height="600">
+<img src="https://github.com/davidyi0529/Note-Taker_D/blob/main/Public/assets/images/demo.gif?raw=true" width="800" height="600">
 
 <br />
 <br />
@@ -62,17 +62,37 @@ Note-Taker_D...
 
 <br />
 
-> Below I have shared a link to clone the repo, if perhaps you would like to see or contribute to the code.
-
-<br />
-
-### Clone
+> To run the application locally, first clone this repository with the following command.
 
 <br />
 
 ```bash
- Clone this repo to your local machine using 'https://github.com/davidyi0529/Note-Taker_D.git'
+git clone https://github.com/davidyi0529/Note-Taker_D.git
 ```
+
+<br />
+
+> Next, install the application dependencies inside the Note Taker directory.
+
+<br />
+
+```bash
+npm install
+```
+
+<br />
+
+> Finally, run the node server locally.
+
+<br />
+
+```bash
+node server.js
+```
+
+<br />
+
+> Now, open the application on port 3000 at the URL: http://localhost:3000/.
 
 <br />
 <br />
